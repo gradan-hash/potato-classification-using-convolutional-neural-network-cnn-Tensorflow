@@ -56,6 +56,7 @@ def read_file_as_image(data) -> np.ndarray:
 async def predict(file: UploadFile = File(...)):
     try:
         image = read_file_as_image(await file.read())
+        logger.info(f"Received file with size: {len(image)} bytes")
         img_batch = np.expand_dims(image, 0)
 
         # Get predictions from the model
