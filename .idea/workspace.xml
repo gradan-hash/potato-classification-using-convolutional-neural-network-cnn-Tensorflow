@@ -12,6 +12,7 @@
       <change beforePath="$PROJECT_DIR$/../WEB DEVELOPMENT/reduxx/client/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../WEB DEVELOPMENT/reduxx/client/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../WEB DEVELOPMENT/reduxx/client/src/redux/apiCalls.js" beforeDir="false" afterPath="$PROJECT_DIR$/../WEB DEVELOPMENT/reduxx/client/src/redux/apiCalls.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../WEB DEVELOPMENT/reduxx/client/src/redux/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/../WEB DEVELOPMENT/reduxx/client/src/redux/store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +28,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -95,7 +96,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715877294442</updated>
-      <workItem from="1715877483050" duration="12720000" />
+      <workItem from="1715877483050" duration="15527000" />
+      <workItem from="1715940146571" duration="615000" />
     </task>
     <servers />
   </component>
